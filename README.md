@@ -15,4 +15,4 @@ time to make a conclusion about the product.
 Analyse trends in car sales and predict future car prices (MSRP) using different car features 
 as parameters for prediction."
 
-The zip folder contains a detailed report to show what I have implemented.
+This repository contains a detailed report to show what I have implemented.
